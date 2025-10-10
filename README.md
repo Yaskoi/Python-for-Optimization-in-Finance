@@ -49,6 +49,7 @@ Sophistication is not necessarily the key — clarity, interpretability, and rel
 ## 👥 Authors
 
 Project developed as part of the Python for Optimization in Finance course.
+
 Authors: Yassine Housseine, Louis Monin, Alain Richard Belinga
 
 ## ⚙️ Installation
